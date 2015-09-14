@@ -10,3 +10,6 @@ sites/all/translations
 
 # Ignore htaccess file
 .htaccess
+
+# Ignore htaccess file
+.htaccesssss
